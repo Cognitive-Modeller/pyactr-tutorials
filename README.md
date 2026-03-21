@@ -28,7 +28,7 @@ Tutorials 1-4 cover the basics. 5-8 go deeper into ACT-R's modules and subsymbol
 Requires Python 3.11+.
 
 ```bash
-git clone https://github.com/ajighose/pyactr-tutorials.git
+git clone https://github.com/Cognitive-Modeller/pyactr-tutorials.git
 cd pyactr-tutorials
 
 # install uv if you don't have it
@@ -43,6 +43,10 @@ Then open the `notebooks/` directory and start from tutorial 1.
 ## Companion web app
 
 There's also a web app (`pyactr-webapp/`) with a browser-based code editor for running pyactr code without a local Jupyter setup. See `pyactr-webapp/README.md` for details. It's experimental.
+
+![Landing page](docs/screenshot-homepage.png)
+
+![Interactive code editor for model fitting](docs/screenshot-tutorial.png)
 
 ## References
 
