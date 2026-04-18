@@ -107,16 +107,16 @@ export default function HomePage() {
         <h2 className="text-2xl font-bold mb-6">Learning Path</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 rounded-lg">
-            <h4 className="font-semibold text-green-600">🟢 Beginners</h4>
-            <p className="text-gray-600 mt-1">Start with Tutorials 1-2 to understand the basics of ACT-R and memory systems.</p>
+            <h4 className="font-semibold text-green-600">🟢 Beginners (Tutorials 1-4)</h4>
+            <p className="text-gray-600 mt-1">Start with the basics of ACT-R, declarative memory, production rules, and build your first complete model.</p>
           </div>
           <div className="bg-white p-4 rounded-lg">
-            <h4 className="font-semibold text-yellow-600">🟡 Intermediate</h4>
-            <p className="text-gray-600 mt-1">Continue with Tutorials 3-4 to learn production rules and build complete models.</p>
+            <h4 className="font-semibold text-yellow-600">🟡 Intermediate (Tutorials 5-8)</h4>
+            <p className="text-gray-600 mt-1">Go deeper into subsymbolic processing, decision making, motor control, and visual attention.</p>
           </div>
           <div className="bg-white p-4 rounded-lg">
-            <h4 className="font-semibold text-red-600">🔴 Advanced</h4>
-            <p className="text-gray-600 mt-1">Finish with Tutorials 5-6 to master subsymbolic processing and real-world applications.</p>
+            <h4 className="font-semibold text-red-600">🔴 Advanced (Tutorials 9-12)</h4>
+            <p className="text-gray-600 mt-1">Master learning mechanisms, model fitting, complex problem solving, and language processing.</p>
           </div>
         </div>
       </div>
